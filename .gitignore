@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+env/
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Système
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
